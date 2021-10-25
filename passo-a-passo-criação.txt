@@ -1,0 +1,11 @@
+none
+axios
+enter (tudo vazio)
+none
+universal
+server
+enter (tudo vazio)
+guthub username
+Git
+
+npm run dev
